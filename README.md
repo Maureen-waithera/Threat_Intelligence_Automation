@@ -30,6 +30,7 @@ o	Generates a detailed security report with threat analysis and recommendations.
    ALIENVAULT_API_KEY=your_alienvault_api_key
 
     3. Place your PCAP file in the script directory and update pcap_file in main().
+   (password key for pcap file is: infected_20240904)
    
    #Network Traffic Analysis
   - Extracts metadata from a given PCAP file and generates a report.
