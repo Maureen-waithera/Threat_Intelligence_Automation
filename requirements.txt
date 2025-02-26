@@ -1,0 +1,11 @@
+This project is open-source under the MIT License.
+
+
+---
+
+**requirements.txt**
+
+pyshark
+requests
+tshark
+python-dotenv
